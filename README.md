@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Welcome! 👋
+I’m Ryan Tengan, a Computer Engineering student at UC Davis. I enjoy working on projects that combine microcontrollers, robotics, and real-time data visualization. Please feel free to check out my work!
 <!--
 **ryantengan/ryantengan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
